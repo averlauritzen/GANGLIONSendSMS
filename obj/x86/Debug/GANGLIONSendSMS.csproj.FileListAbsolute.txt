@@ -1,0 +1,55 @@
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.config
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.pdb
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Properties.Resources.resources
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.pdb
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Form1.resources
+C:\Users\Daniel\Desktop\SMS\GANGLIONSendSMS\GANGLIONSendSMS\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.config
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.pdb
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.pdb
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Form1.resources
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Properties.Resources.resources
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\AL\Kildekode\Slutprodukter\GANGLIONSendSMS_jcl\GANGLIONSendSMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.config
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.pdb
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\RestSharp.dll
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\RestSharp.xml
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Form1.resources
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Properties.Resources.resources
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.csproj.GenerateResource.Cache
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.pdb
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.manifest
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.application
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.TrustInfo.xml
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe.manifest
+C:\Users\Kim Jørgensen\OneDrive\Fra Jens Christian\SMS program\GANGLIONSendSMS3_Rettet af KJ\GANGLIONSendSMS3\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.application
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Form1.resources
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.Properties.Resources.resources
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.pdb
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.TrustInfo.xml
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.config
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe.manifest
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.application
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.exe
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\GANGLIONSendSMS.pdb
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\GANGLIONSendSMS\bin\Debug\RestSharp.xml
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.exe.manifest
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.application
+C:\Users\admin\source\repos\GANGLIONSendSMS\obj\x86\Debug\GANGLIONSendSMS.csproj.CopyComplete

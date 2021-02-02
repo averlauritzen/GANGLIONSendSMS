@@ -1,0 +1,71 @@
+Current time: 18-10-2010 14:02:14
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:02:24
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:02:34
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:02:44
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:02:54
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:03:04
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:06:27
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+UPDATE SMS SET SMS_SENT_TIMESTAMP='2010-10-18 14:06:27' WHERE SMS_CAPABLE_PHONENUMBER='20621820' AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18';
+########################################
+Current time: 18-10-2010 14:06:37
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:06:47
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:28:59
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:29:09
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:58:40
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:58:50
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 14:59:00
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 15:07:52
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 15:09:05
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 18-10-2010 15:09:14
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-18'
+########################################
+Current time: 19-10-2010 15:43:16
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-19'
+########################################
+Current time: 19-10-2010 15:43:25
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-19'
+########################################
+Current time: 19-10-2010 15:43:35
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2010-10-19'
+########################################
+Current time: 31-03-2011 11:43:32
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2011-3-31'
+UPDATE SMS SET SMS_SENT_TIMESTAMP='2011-03-31 11:43:33' WHERE SMS_CAPABLE_PHONENUMBER='27515015' AND SMS_TO_BE_SENT_TIMESTAMP='2011-3-31';
+########################################
+Current time: 31-03-2011 11:43:41
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2011-3-31'
+########################################
+Current time: 31-03-2011 11:43:51
+SELECT * FROM SMS WHERE SMS_SENT_TIMESTAMP is null AND SMS_TO_BE_SENT_TIMESTAMP='2011-3-31'
+########################################
