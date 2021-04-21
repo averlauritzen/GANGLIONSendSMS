@@ -228,7 +228,7 @@ namespace GANGLIONSendSMS
 
                 SmsReciept reciept = smsGate.SendThisSms(nysms.AfsenderNavn, nysms.Besked, modtager);
                 string gatewayid = reciept.SmsIDNumbers[0] == null ? "" : reciept.SmsIDNumbers[0];
-                logger.writeToLogAlways("Besked sendt til " + modtager + " GatewayID " + gatewayid); //TODO : Parametiseres, sørg for at ID kommer med som update kriterie
+                logger.writeToLogAlways("Besked sendt til " + modtager + " GatewayID " + gatewayid);
 
                 string input = DateTime.Today.Date.ToString();
                 string date = input.Substring(0, input.IndexOf(" "));
@@ -249,9 +249,6 @@ namespace GANGLIONSendSMS
 
                     updateCommand.ExecuteNonQuery();
                 }
-
-                //    FbCommand updateQuery = new FbCommand(cmdUpdate, dataBaseConnection);
-                //updateQuery.ExecuteNonQuery();
             }
         }
 
